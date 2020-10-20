@@ -5,7 +5,14 @@
   - Inheritance
   - Polymorphism
  
- 
+### Encapsulation
+Direct access to the properties of the object is prevented and access is provided by getter and setter methods.
+
+```bash
+Username: OzgurAkinci
+Password: null
+```
+
 ### Inheritance
 In this example, a cat and mouse inherit the characteristics of the animal class.
 
