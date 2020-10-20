@@ -4,7 +4,18 @@
   - Encapsulation
   - Inheritance
   - Polymorphism
-  
+ 
+ 
+### Inheritance
+In this example, a cat and mouse inherit the characteristics of the animal class.
+
+```bash
+Mouse is 2 kg.
+Cat is 12 kg.
+The cat ate the mouse.
+Mouse isDead: true
+Cat is 14
+```
 
 ### Polymorphism
 This program calculates the increased salaries to be paid to employees who receive a raise.
