@@ -1,6 +1,7 @@
 package com.app.oop_principles.inheritance;
 
-public class Eat { // Inheritance
+// Inheritance
+public class Eat {
     public static void main(String args[]) {
         Cat cat = new Cat();
         cat.name = "Tom";

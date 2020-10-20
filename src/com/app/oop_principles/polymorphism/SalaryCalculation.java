@@ -5,6 +5,7 @@ import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.List;
 
+// Polymorphism
 public class SalaryCalculation {
     private static DecimalFormat df = new DecimalFormat("#.##");
 
