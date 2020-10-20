@@ -4,7 +4,15 @@
   - Encapsulation
   - Inheritance
   - Polymorphism
- 
+
+### Abstraction
+Direct access to the properties of the object is prevented and access is provided by getter and setter methods.
+
+```bash
+class com.app.oop_principles.abstraction.Dog is relaxed.
+The dog says(notEat): I am so hungry.
+```
+
 ### Encapsulation
 Direct access to the properties of the object is prevented and access is provided by getter and setter methods.
 
