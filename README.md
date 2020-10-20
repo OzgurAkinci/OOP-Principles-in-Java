@@ -4,6 +4,9 @@
   - Encapsulation
   - Inheritance
   - Polymorphism
+  
+
+## Polymorphism
   ```bash
    This program calculates the increased salaries to be paid to employees who receive a raise.
 ```
